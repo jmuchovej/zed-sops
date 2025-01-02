@@ -1,0 +1,7 @@
+id = "sops"
+name = "SOPS: Secrets OPerationS"
+version = "0.0.1"
+schema_version = 1
+authors = ["John Muchovej <jmuchovej@pm.me>"]
+description = "Interact with SOPS in Zed!"
+repository = "https://github.com/jmuchovej/zed-sops"

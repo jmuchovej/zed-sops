@@ -1,0 +1,11 @@
+[package]
+name = "zed-sops"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+directories = "5.0.1"
+zed_extension_api = "0.2.0"
